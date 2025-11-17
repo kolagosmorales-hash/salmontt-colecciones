@@ -1,5 +1,0 @@
-Isla Huar;Calbuco;1800
-Isla Lemuy;Quellon;2200
-Isla Coldita;Quellon;1500
-Isla Puluqui;Calbuco;1950
-Canal Caucahue;Quemchi;1700
