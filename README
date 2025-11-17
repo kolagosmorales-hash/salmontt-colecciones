@@ -1,0 +1,9 @@
+Este proyecto fue creado para la actividad donde debemos leer datos desde un archivo y convertirlo en una lista de objetos 
+El programa carga informacion de distintos centros de cultivo desde un archivo "centr.txt", los guarda en objetos de la clase "CentroCultivo" y luego permite mostrarlos y filtrarlos seggun su produccón.
+
+La estructura del proyecto incluye:
+-Una clase "CentroCultivo" para representar cada centro
+-Una clase "GestorDatos" que se encarga de leer el archivoy generar la lista 
+-Una clase "Main" donde se ejecuta el programa 
+
+El programa carga la información y muetra los centros en pantalla 
